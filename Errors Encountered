@@ -1,0 +1,7 @@
+bash: syntax error near unexpected token `newline'
+bash: syntax error near unexpected token `6575483'
+[ERROR] Failed to load config, please register a user first
+[ERROR] Details: No such file or directory (os error 2)
+Error: Os { code: 2, kind: NotFound, message: "No such file or directory" }
+Error: "Configuration file not found. Please register first."
+bash: syntax error near unexpected token `newline'
